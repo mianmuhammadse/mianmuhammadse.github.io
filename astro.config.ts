@@ -97,7 +97,6 @@ export default defineConfig({
 	prefetch: true,
 	// ! Please remember to replace the following site property with your own domain
 	site: "https://mianmuhammadse.github.io",
-  "base": "/mianmuhammadse.github.io",
 	vite: {
 		optimizeDeps: {
 			exclude: ["@resvg/resvg-js"],
